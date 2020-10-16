@@ -1,0 +1,285 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Extra",
+					"strict" : false
+				},
+				{
+					"name" : "Exec1",
+					"strict" : false
+				},
+				{
+					"name" : "Fetch",
+					"strict" : false
+				},
+				{
+					"name" : "Exec2",
+					"strict" : false
+				},
+				{
+					"name" : "RamWriteEnable",
+					"strict" : false
+				},
+				{
+					"name" : "ProgCountEnable",
+					"strict" : false
+				},
+				{
+					"name" : "Mux2Select",
+					"strict" : false
+				},
+				{
+					"name" : "ProgCountSynLoad",
+					"strict" : false
+				},
+				{
+					"name" : "CurrentState[1]",
+					"strict" : false
+				},
+				{
+					"name" : "CurrentState[0]",
+					"strict" : false
+				},
+				{
+					"name" : "MuxedData[15]",
+					"strict" : false
+				},
+				{
+					"name" : "MuxedData[14]",
+					"strict" : false
+				},
+				{
+					"name" : "MuxedData[13]",
+					"strict" : false
+				},
+				{
+					"name" : "MuxedData[12]",
+					"strict" : false
+				},
+				{
+					"name" : "MuxedData[11]",
+					"strict" : false
+				},
+				{
+					"name" : "MuxedData[10]",
+					"strict" : false
+				},
+				{
+					"name" : "MuxedData[9]",
+					"strict" : false
+				},
+				{
+					"name" : "MuxedData[8]",
+					"strict" : false
+				},
+				{
+					"name" : "MuxedData[7]",
+					"strict" : false
+				},
+				{
+					"name" : "MuxedData[6]",
+					"strict" : false
+				},
+				{
+					"name" : "MuxedData[5]",
+					"strict" : false
+				},
+				{
+					"name" : "MuxedData[4]",
+					"strict" : false
+				},
+				{
+					"name" : "MuxedData[3]",
+					"strict" : false
+				},
+				{
+					"name" : "MuxedData[2]",
+					"strict" : false
+				},
+				{
+					"name" : "MuxedData[1]",
+					"strict" : false
+				},
+				{
+					"name" : "MuxedData[0]",
+					"strict" : false
+				},
+				{
+					"name" : "NextState[1]",
+					"strict" : false
+				},
+				{
+					"name" : "NextState[0]",
+					"strict" : false
+				},
+				{
+					"name" : "PCOut[11]",
+					"strict" : false
+				},
+				{
+					"name" : "PCOut[10]",
+					"strict" : false
+				},
+				{
+					"name" : "PCOut[9]",
+					"strict" : false
+				},
+				{
+					"name" : "PCOut[8]",
+					"strict" : false
+				},
+				{
+					"name" : "PCOut[7]",
+					"strict" : false
+				},
+				{
+					"name" : "PCOut[6]",
+					"strict" : false
+				},
+				{
+					"name" : "PCOut[5]",
+					"strict" : false
+				},
+				{
+					"name" : "PCOut[4]",
+					"strict" : false
+				},
+				{
+					"name" : "PCOut[3]",
+					"strict" : false
+				},
+				{
+					"name" : "PCOut[2]",
+					"strict" : false
+				},
+				{
+					"name" : "PCOut[1]",
+					"strict" : false
+				},
+				{
+					"name" : "PCOut[0]",
+					"strict" : false
+				},
+				{
+					"name" : "RamAddress[11]",
+					"strict" : false
+				},
+				{
+					"name" : "RamAddress[10]",
+					"strict" : false
+				},
+				{
+					"name" : "RamAddress[9]",
+					"strict" : false
+				},
+				{
+					"name" : "RamAddress[8]",
+					"strict" : false
+				},
+				{
+					"name" : "RamAddress[7]",
+					"strict" : false
+				},
+				{
+					"name" : "RamAddress[6]",
+					"strict" : false
+				},
+				{
+					"name" : "RamAddress[5]",
+					"strict" : false
+				},
+				{
+					"name" : "RamAddress[4]",
+					"strict" : false
+				},
+				{
+					"name" : "RamAddress[3]",
+					"strict" : false
+				},
+				{
+					"name" : "RamAddress[2]",
+					"strict" : false
+				},
+				{
+					"name" : "RamAddress[1]",
+					"strict" : false
+				},
+				{
+					"name" : "RamAddress[0]",
+					"strict" : false
+				},
+				{
+					"name" : "RamOut[15]",
+					"strict" : false
+				},
+				{
+					"name" : "RamOut[14]",
+					"strict" : false
+				},
+				{
+					"name" : "RamOut[13]",
+					"strict" : false
+				},
+				{
+					"name" : "RamOut[12]",
+					"strict" : false
+				},
+				{
+					"name" : "RamOut[11]",
+					"strict" : false
+				},
+				{
+					"name" : "RamOut[10]",
+					"strict" : false
+				},
+				{
+					"name" : "RamOut[9]",
+					"strict" : false
+				},
+				{
+					"name" : "RamOut[8]",
+					"strict" : false
+				},
+				{
+					"name" : "RamOut[7]",
+					"strict" : false
+				},
+				{
+					"name" : "RamOut[6]",
+					"strict" : false
+				},
+				{
+					"name" : "RamOut[5]",
+					"strict" : false
+				},
+				{
+					"name" : "RamOut[4]",
+					"strict" : false
+				},
+				{
+					"name" : "RamOut[3]",
+					"strict" : false
+				},
+				{
+					"name" : "RamOut[2]",
+					"strict" : false
+				},
+				{
+					"name" : "RamOut[1]",
+					"strict" : false
+				},
+				{
+					"name" : "RamOut[0]",
+					"strict" : false
+				},
+				{
+					"name" : "CLK",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

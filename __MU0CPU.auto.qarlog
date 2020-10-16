@@ -1,0 +1,23 @@
+Quartus Prime Archive log --	//icnas4.cc.ic.ac.uk/tjm1518/DECA Lab 4/__MU0CPU.auto.qarlog
+
+Archive:	//icnas4.cc.ic.ac.uk/tjm1518/DECA Lab 4/__MU0CPU.auto.qar
+Date:		Wed Apr 29 18:16:02 2020
+Quartus Prime		18.1.0 Build 625 09/12/2018 SJ Standard Edition
+
+	=========== Files Selected: ===========
+//icnas4.cc.ic.ac.uk/tjm1518/DECA Lab 4/db/MU0CPU.cbx.xml
+//icnas4.cc.ic.ac.uk/tjm1518/DECA Lab 4/db/MU0CPU.qpf
+//icnas4.cc.ic.ac.uk/tjm1518/DECA Lab 4/output_files/MU0CPU.flow.rpt
+//icnas4.cc.ic.ac.uk/tjm1518/DECA Lab 4/output_files/MU0CPU.map.rpt
+//icnas4.cc.ic.ac.uk/tjm1518/DECA Lab 4/output_files/MU0CPU.map.summary
+MU0CPU.bdf
+MU0CPU.qsf
+RAM.bsf
+RAM.qip
+RAM.v
+RAM_bb.v
+c:/intelfpga/18.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 12 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

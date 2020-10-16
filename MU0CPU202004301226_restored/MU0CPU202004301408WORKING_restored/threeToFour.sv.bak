@@ -1,0 +1,9 @@
+module threeToFour(
+	input logic [11:0] in,
+	output logic [15:0] out
+);
+
+	out[11:0] = in;
+	out[15:12] = 0b1111 & in[11];
+
+endmodule

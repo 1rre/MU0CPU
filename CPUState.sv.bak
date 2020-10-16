@@ -1,0 +1,15 @@
+module CPUState(
+	input extra
+	output fetch,
+	output exec1,
+	output exec2,
+	output [2:0] ns,
+	input [2:0] s
+);
+
+assign ns =  '{0,s[0]&extra, ~s[1] & ~s[0]};
+assign fetch = ~ns[2]&~ns[1]&~ns[0];
+assign exec1 = ~ns[2]&~ns[1]&ns[0];
+assign exec2 = ~ns[2]&ns[1]&~ns[0];
+
+endmodule

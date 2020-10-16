@@ -1,0 +1,30 @@
+Quartus Prime Archive log --	/DECA Lab 4/MU0CPU202004301226_restored/MU0CPU202004301408WORKING.qarlog
+
+Archive:	/DECA Lab 4/MU0CPU202004301226_restored/MU0CPU202004301408WORKING.qar
+Date:		Thu Apr 30 14:08:32 2020
+Quartus Prime		18.1.0 Build 625 09/12/2018 SJ Standard Edition
+
+	=========== Files Selected: ===========
+/DECA Lab 4/MU0CPU202004301226_restored/CPUState.sv
+/DECA Lab 4/MU0CPU202004301226_restored/MU0CPU.bdf
+/DECA Lab 4/MU0CPU202004301226_restored/MU0CPU.qpf
+/DECA Lab 4/MU0CPU202004301226_restored/MU0CPU.qsf
+/DECA Lab 4/MU0CPU202004301226_restored/RAM.bsf
+/DECA Lab 4/MU0CPU202004301226_restored/RAM.qip
+/DECA Lab 4/MU0CPU202004301226_restored/RAM.v
+/DECA Lab 4/MU0CPU202004301226_restored/RAM_bb.v
+/DECA Lab 4/MU0CPU202004301226_restored/Waveform1.vwf
+/DECA Lab 4/MU0CPU202004301226_restored/assignment_defaults.qdf
+/DECA Lab 4/MU0CPU202004301226_restored/decoder.sv
+/DECA Lab 4/MU0CPU202004301226_restored/task5test.mif
+/DECA Lab 4/MU0CPU202004301226_restored/waveform.vwf
+	======= Total: 13 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Thu Apr 30 14:24:00 2020
+Source archive file:	//icnas4.cc.ic.ac.uk/tjm1518/DECA Lab 4/MU0CPU202004301226_restored/MU0CPU202004301408WORKING.qar
+Archive was extracted into	//icnas4.cc.ic.ac.uk/tjm1518/DECA Lab 4/MU0CPU202004301226_restored/MU0CPU202004301408WORKING_restored/
+		 - successfully.

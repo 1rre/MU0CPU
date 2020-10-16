@@ -1,0 +1,677 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "RamWriteEnable",
+					"strict" : false
+				},
+				{
+					"name" : "Exec1",
+					"strict" : false
+				},
+				{
+					"name" : "Extra",
+					"strict" : false
+				},
+				{
+					"name" : "Fetch",
+					"strict" : false
+				},
+				{
+					"name" : "Exec2",
+					"strict" : false
+				},
+				{
+					"name" : "ProgCountEnable",
+					"strict" : false
+				},
+				{
+					"name" : "ProgCountSynLoad",
+					"strict" : false
+				},
+				{
+					"name" : "Mux1Select",
+					"strict" : false
+				},
+				{
+					"name" : "mux3sel",
+					"strict" : false
+				},
+				{
+					"name" : "accen",
+					"strict" : false
+				},
+				{
+					"name" : "addSub",
+					"strict" : false
+				},
+				{
+					"name" : "EQ",
+					"strict" : false
+				},
+				{
+					"name" : "MI",
+					"strict" : false
+				},
+				{
+					"name" : "ALUa[15]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUa[14]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUa[13]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUa[12]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUa[11]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUa[10]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUa[9]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUa[8]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUa[7]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUa[6]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUa[5]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUa[4]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUa[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUa[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUa[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUa[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUb[15]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUb[14]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUb[13]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUb[12]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUb[11]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUb[10]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUb[9]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUb[8]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUb[7]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUb[6]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUb[5]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUb[4]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUb[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUb[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUb[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUb[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUout[15]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUout[14]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUout[13]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUout[12]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUout[11]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUout[10]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUout[9]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUout[8]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUout[7]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUout[6]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUout[5]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUout[4]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUout[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUout[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUout[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUout[0]",
+					"strict" : false
+				},
+				{
+					"name" : "CurrentState[1]",
+					"strict" : false
+				},
+				{
+					"name" : "CurrentState[0]",
+					"strict" : false
+				},
+				{
+					"name" : "FFOut[15]",
+					"strict" : false
+				},
+				{
+					"name" : "FFOut[14]",
+					"strict" : false
+				},
+				{
+					"name" : "FFOut[13]",
+					"strict" : false
+				},
+				{
+					"name" : "FFOut[12]",
+					"strict" : false
+				},
+				{
+					"name" : "FFOut[11]",
+					"strict" : false
+				},
+				{
+					"name" : "FFOut[10]",
+					"strict" : false
+				},
+				{
+					"name" : "FFOut[9]",
+					"strict" : false
+				},
+				{
+					"name" : "FFOut[8]",
+					"strict" : false
+				},
+				{
+					"name" : "FFOut[7]",
+					"strict" : false
+				},
+				{
+					"name" : "FFOut[6]",
+					"strict" : false
+				},
+				{
+					"name" : "FFOut[5]",
+					"strict" : false
+				},
+				{
+					"name" : "FFOut[4]",
+					"strict" : false
+				},
+				{
+					"name" : "FFOut[3]",
+					"strict" : false
+				},
+				{
+					"name" : "FFOut[2]",
+					"strict" : false
+				},
+				{
+					"name" : "FFOut[1]",
+					"strict" : false
+				},
+				{
+					"name" : "FFOut[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux1A[11]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux1A[10]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux1A[9]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux1A[8]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux1A[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux1A[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux1A[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux1A[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux1A[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux1A[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux1A[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux1A[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux1B[11]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux1B[10]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux1B[9]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux1B[8]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux1B[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux1B[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux1B[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux1B[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux1B[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux1B[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux1B[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux1B[0]",
+					"strict" : false
+				},
+				{
+					"name" : "MUX2Out[15]",
+					"strict" : false
+				},
+				{
+					"name" : "MUX2Out[14]",
+					"strict" : false
+				},
+				{
+					"name" : "MUX2Out[13]",
+					"strict" : false
+				},
+				{
+					"name" : "MUX2Out[12]",
+					"strict" : false
+				},
+				{
+					"name" : "MUX2Out[11]",
+					"strict" : false
+				},
+				{
+					"name" : "MUX2Out[10]",
+					"strict" : false
+				},
+				{
+					"name" : "MUX2Out[9]",
+					"strict" : false
+				},
+				{
+					"name" : "MUX2Out[8]",
+					"strict" : false
+				},
+				{
+					"name" : "MUX2Out[7]",
+					"strict" : false
+				},
+				{
+					"name" : "MUX2Out[6]",
+					"strict" : false
+				},
+				{
+					"name" : "MUX2Out[5]",
+					"strict" : false
+				},
+				{
+					"name" : "MUX2Out[4]",
+					"strict" : false
+				},
+				{
+					"name" : "MUX2Out[3]",
+					"strict" : false
+				},
+				{
+					"name" : "MUX2Out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "MUX2Out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "MUX2Out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux3out[15]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux3out[14]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux3out[13]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux3out[12]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux3out[11]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux3out[10]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux3out[9]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux3out[8]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux3out[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux3out[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux3out[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux3out[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux3out[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux3out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux3out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Mux3out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "NextState[1]",
+					"strict" : false
+				},
+				{
+					"name" : "NextState[0]",
+					"strict" : false
+				},
+				{
+					"name" : "RamAddress[11]",
+					"strict" : false
+				},
+				{
+					"name" : "RamAddress[10]",
+					"strict" : false
+				},
+				{
+					"name" : "RamAddress[9]",
+					"strict" : false
+				},
+				{
+					"name" : "RamAddress[8]",
+					"strict" : false
+				},
+				{
+					"name" : "RamAddress[7]",
+					"strict" : false
+				},
+				{
+					"name" : "RamAddress[6]",
+					"strict" : false
+				},
+				{
+					"name" : "RamAddress[5]",
+					"strict" : false
+				},
+				{
+					"name" : "RamAddress[4]",
+					"strict" : false
+				},
+				{
+					"name" : "RamAddress[3]",
+					"strict" : false
+				},
+				{
+					"name" : "RamAddress[2]",
+					"strict" : false
+				},
+				{
+					"name" : "RamAddress[1]",
+					"strict" : false
+				},
+				{
+					"name" : "RamAddress[0]",
+					"strict" : false
+				},
+				{
+					"name" : "RamOut[15]",
+					"strict" : false
+				},
+				{
+					"name" : "RamOut[14]",
+					"strict" : false
+				},
+				{
+					"name" : "RamOut[13]",
+					"strict" : false
+				},
+				{
+					"name" : "RamOut[12]",
+					"strict" : false
+				},
+				{
+					"name" : "RamOut[11]",
+					"strict" : false
+				},
+				{
+					"name" : "RamOut[10]",
+					"strict" : false
+				},
+				{
+					"name" : "RamOut[9]",
+					"strict" : false
+				},
+				{
+					"name" : "RamOut[8]",
+					"strict" : false
+				},
+				{
+					"name" : "RamOut[7]",
+					"strict" : false
+				},
+				{
+					"name" : "RamOut[6]",
+					"strict" : false
+				},
+				{
+					"name" : "RamOut[5]",
+					"strict" : false
+				},
+				{
+					"name" : "RamOut[4]",
+					"strict" : false
+				},
+				{
+					"name" : "RamOut[3]",
+					"strict" : false
+				},
+				{
+					"name" : "RamOut[2]",
+					"strict" : false
+				},
+				{
+					"name" : "RamOut[1]",
+					"strict" : false
+				},
+				{
+					"name" : "RamOut[0]",
+					"strict" : false
+				},
+				{
+					"name" : "boot",
+					"strict" : false
+				},
+				{
+					"name" : "CLK",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

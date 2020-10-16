@@ -1,0 +1,22 @@
+Quartus Prime Archive log --	/DECA Lab 4/MU0CPU202004291815.qarlog
+
+Archive:	/DECA Lab 4/MU0CPU202004291815.qar
+Date:		Wed Apr 29 18:16:03 2020
+Quartus Prime		18.1.0 Build 625 09/12/2018 SJ Standard Edition
+
+	=========== Files Selected: ===========
+/DECA Lab 4/MU0CPU.bdf
+/DECA Lab 4/MU0CPU.qpf
+/DECA Lab 4/MU0CPU.qsf
+/DECA Lab 4/RAM.bsf
+/DECA Lab 4/RAM.qip
+/DECA Lab 4/RAM.v
+/DECA Lab 4/RAM_bb.v
+/DECA Lab 4/output_files/MU0CPU.flow.rpt
+/DECA Lab 4/output_files/MU0CPU.map.rpt
+/DECA Lab 4/output_files/MU0CPU.map.summary
+c:/intelfpga/18.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 11 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
